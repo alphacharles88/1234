@@ -4,7 +4,7 @@ A modern, production-ready, fully responsive food delivery and table reservation
 
 ![Chop Life Food Delivery](https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=800&h=400&fit=crop)
 
-## 🎯 Purpose of the Application
+##  Purpose of the Application
 
 **Chop Life** is an end-to-end food business web application crafted to deliver a modern SaaS dining experience. Its core goals are:
 
@@ -17,7 +17,7 @@ A modern, production-ready, fully responsive food delivery and table reservation
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 - **Interactive Shopping Cart:** Real-time quantity adjustments, live subtotal updates, free delivery threshold indicator, and slide-out drawer.
 - **Interactive Background:** Dynamic HTML5 canvas particle system featuring drifting food emojis with gentle cursor repulsion physics.
@@ -29,7 +29,7 @@ A modern, production-ready, fully responsive food delivery and table reservation
 
 ---
 
-## 🛠 Tech Stack & Build Environment
+##  Tech Stack & Build Environment
 
 | Tool / Technology | Role in Project | Description |
 |---|---|---|
@@ -41,7 +41,7 @@ A modern, production-ready, fully responsive food delivery and table reservation
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 choplife/
@@ -86,7 +86,7 @@ choplife/
 
 ---
 
-## ⚡ Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -111,7 +111,7 @@ npm run preview
 
 ---
 
-## 🎨 Design System
+##  Design System
 
 - **Currency:** Nigerian Naira (**₦**)
 - **Primary Color:** Vibrant Orange (`#f97316`)
@@ -124,6 +124,6 @@ npm run preview
 
 ---
 
-## 📄 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
